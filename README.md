@@ -28,7 +28,7 @@ C:\Users\USERNAME\Documents\Rainmeter\Skins
 Windows 7 이상의 운영체제에 설치 된 레인미터(버전 4.2.0.3111 이상)
 
 ### 문구
-Windows버전과 MacOS버전에서 제공되고 있는 문구 서비스도 다음 업데이트를 통하여 제공할 예정입니다.
+Windows버전과 MacOS버전에서 제공되고 있는 문구 서비스도  업데이트를 통하여 제공할 예정입니다.
 
 ## 라이센스
 GPLv3(GNU General Public License v3)
