@@ -6,6 +6,8 @@ Windows 환경에서 여러 바탕화면 커스텀 프로그램(월페이퍼 엔
 
 한글시계를 같이 사용하고 싶다는 생각이 들어 제작하게 되었습니다.
 
+![!Screenshot](https://github.com/j3j3y123/Rainmeter_hangul_clock/blob/master/Screenshot/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(2).png)
+
 ## 한글시계 사용하기
 다운로드 : https://github.com/j3j3y123/Rainmeter_hangul_clock/releases
 
